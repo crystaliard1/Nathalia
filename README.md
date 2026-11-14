@@ -200,4 +200,4 @@ This repository serves as the official landing page for Nathalia. The software i
 **Get the most recent version of Nathalia today!**
 
 ---
-**Last updated:** 2026-11-13 22:26:40 UTC
+**Last updated:** 2026-11-14 02:57:45 UTC
